@@ -1,0 +1,14 @@
+img{ 
+   width: 400px;
+    height: 500px;
+     }
+body{
+    font-size: 24px;
+    font-family: Calibri;
+    max-width: 1400px;
+    margin: auto;
+    color: black;
+    background-color: grey;
+}
+
+  
